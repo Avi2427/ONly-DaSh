@@ -1,13 +1,13 @@
 {
     "website" : {
       "support": "https://discord.gg/milrato",
-      "domain": "https://Musicium-1.avigarenatamizh.repl.co"
+      "domain": "https://35.222.6.129"
     },
     "config": {
         "http": {
           "port": 80
         },
-        "callback": "https://Musicium-1.avigarenatamizh.repl.co/callback",
+        "callback": "https://35.222.6.129/callback",
         "clientID": "827029625976520714",
         "secret": "G0xRbWqdmzvPYsoOdxucEii7N_x18OQw"
     }
